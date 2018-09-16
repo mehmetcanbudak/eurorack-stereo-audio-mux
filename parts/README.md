@@ -7,9 +7,11 @@
   * schematic: connectivity - eg: GND, t, r, s signals  
 * use octopart and snapeda to find a component
   * try find component with existing 
-    * eagle footprints
+    * eagle footprint, schematic representations 
     * 3d model for CAM
-  * else create footprint, schematic representations and 3d model for CAM
+  * else, use datasheet to create 
+    * eagle footprint, schematic representations 
+    * 3d model for CAM
 
 # project parts 
 These parts are ideal for this project: 
