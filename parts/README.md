@@ -1,6 +1,10 @@
 # workflow
+* given schematic
+* identify parts required for schematic
 * identify requirements for part 
-  * eg. stereo jack 6.35mm, vertical/horizontal, thru-hole/surface-mount
+  * footprint: physical
+    * 6.35mm, vertical/horizontal, thru-hole/surface-mount
+  * schematic: connectivity - eg: GND, t, r, s signals  
 * use octopart and snapeda to find a component
   * try find component with existing 
     * eagle footprints
