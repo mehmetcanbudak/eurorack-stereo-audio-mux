@@ -12,5 +12,10 @@
 
 # project parts 
 These parts are ideal for this project: 
-* Amphenol ACJS-MV-3
-  * Conn 1/4" Phone Jack F 3 POS Solder ST Thru-Hole 3 Terminal 1 Port
+
+
+| Part        |            | Got Eagle footprint  |
+| ------------- |:-------------:| -----:|
+| Amphenol ACJS-MV-3 | 1/4" TRS Jack connector | No |
+
+  
