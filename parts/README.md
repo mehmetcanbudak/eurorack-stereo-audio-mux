@@ -17,8 +17,8 @@
 These parts are ideal for this project: 
 
 
-| Part        |            | Got Eagle footprint  |
-| ------------- |:-------------:| -----:|
-| Amphenol ACJS-MV-3 | 1/4" TRS Jack connector | No |
+| Part        |            | package| Got Eagle footprint  |
+| ------------- |:-------------:| ---- | -----:|
+| Amphenol ACJS-MV-3 | 1/4" TRS Jack connector | custom | No |
 
   
