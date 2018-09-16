@@ -1,5 +1,5 @@
 # workflow
-* given schematic
+* from schematic
 * identify parts required for schematic
 * identify requirements for part 
   * footprint: physical
@@ -9,6 +9,7 @@
   * try find component with existing 
     * eagle footprints
     * 3d model for CAM
+  * else create footprint, schematic representations and 3d model for CAM
 
 # project parts 
 These parts are ideal for this project: 
